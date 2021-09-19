@@ -1,0 +1,22 @@
+/*THIS CSS WILL ONLY APPLY TO RECIPE COMPONENT*/ 
+.recipe{
+    
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    padding-right: 5px;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 30%;
+
+}
+
+.image{
+    border-radius: 5%;
+    width: 150px;
+    height: 150px;
+}
+
